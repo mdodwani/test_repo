@@ -1,0 +1,2 @@
+I am testing new changes in the branch
+Now I am adding a new change for a new commit
